@@ -1,5 +1,5 @@
 botocore==1.4.59
-chalice==0.2.0
+chalice==0.10.1
 click==6.2
 docutils==0.12
 jmespath==0.9.0
